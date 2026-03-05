@@ -1,5 +1,8 @@
 {
   "name": "@nlace/ui-kit",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.5.0",
   "description": "NLACE Design System — tokens CSS, Tailwind preset y componentes React",
   "main": "dist/index.cjs",
